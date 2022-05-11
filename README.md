@@ -12,5 +12,5 @@ O objetivo foi utilizar um botão para salvar 10 diferentes leituras de uma port
 * **[Projeto 03 - :](https://github.com/leonlauriano/sistemas_embarcados/tree/main/projeto3)**
 O objetivo foi utilizar o monitor serial para enviar três palavras diferentes para o arduino para acender três leds de diferentes cores.  
 
-* **[Projeto 04 - :]   **
+* **[Projeto 04 - :](https://github.com/leonlauriano/sistemas_embarcados/blob/main/projeto%204/mainwindow.cpp)  **
 Utilizando os ambientes de desenvolvimento Qt Creator e Arduino, foi elaborado um programa em C++ para comando de acendimento de uma lâmpada com auxílio de relê e o acionamento de um motor por meio de ponte H, com possibilidade de inversão do sentido de rotação do motor.
