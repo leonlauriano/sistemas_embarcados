@@ -16,5 +16,5 @@ O objetivo foi utilizar o monitor serial para enviar três palavras diferentes p
 Utilizando os ambientes de desenvolvimento Qt Creator e Arduino, foi elaborado um programa em C++ para comando de acendimento de uma lâmpada com auxílio de relê e o acionamento de um motor por meio de ponte H, com possibilidade de inversão do sentido de rotação do motor.
 
 
-* **[Projeto 05 - :](https://github.com/leonlauriano/sistemas_embarcados/tree/main/projeto%204)**
-Utilizando os ambientes de desenvolvimento Qt Creator e Arduino, foi elaborado um programa em C++ para comando de acendimento de uma lâmpada com auxílio de relê e o acionamento de um motor por meio de ponte H, com possibilidade de inversão do sentido de rotação do motor.
+* **[Projeto 05 - :](https://github.com/leonlauriano/sistemas_embarcados/tree/main/projeto5)**
+Leitura de sensores GNSS, apresentando na tela Latitude, Longitude, Data, Hora, Velocidade e Direção. Além da quantidade de Satelites, nível de ruído(SNR) e de erro (PDOP). 
