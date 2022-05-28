@@ -17,4 +17,4 @@ Utilizando os ambientes de desenvolvimento Qt Creator e Arduino, foi elaborado u
 
 
 * **[Projeto 05 - :](https://github.com/leonlauriano/sistemas_embarcados/tree/main/projeto5)**
-Leitura de sensores GNSS, apresentando na tela Latitude, Longitude, Data, Hora, Velocidade e Direção. Além da quantidade de Satelites, nível de ruído(SNR) e de erro (PDOP). 
+Em C++, usando o QT Creator, foi elaborado um programa para leitura de sentenças NMEA de um GPS. Criando tambem uma interface gráfica do usuário que apresente as sentenças NMEA e cada uma dos dados como:Latitude, Longitude, Data, Hora, Velocidade e Direção. Além da quantidade de Satelites, nível de ruído(SNR) e de erro (PDOP). 
